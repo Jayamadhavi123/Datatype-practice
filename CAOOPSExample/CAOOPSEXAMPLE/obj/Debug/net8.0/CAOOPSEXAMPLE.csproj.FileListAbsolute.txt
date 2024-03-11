@@ -1,0 +1,14 @@
+C:\Users\jayam\source\repos\CAOOPSEXAMPLE\CAOOPSEXAMPLE\bin\Debug\net8.0\CAOOPSEXAMPLE.exe
+C:\Users\jayam\source\repos\CAOOPSEXAMPLE\CAOOPSEXAMPLE\bin\Debug\net8.0\CAOOPSEXAMPLE.deps.json
+C:\Users\jayam\source\repos\CAOOPSEXAMPLE\CAOOPSEXAMPLE\bin\Debug\net8.0\CAOOPSEXAMPLE.runtimeconfig.json
+C:\Users\jayam\source\repos\CAOOPSEXAMPLE\CAOOPSEXAMPLE\bin\Debug\net8.0\CAOOPSEXAMPLE.dll
+C:\Users\jayam\source\repos\CAOOPSEXAMPLE\CAOOPSEXAMPLE\bin\Debug\net8.0\CAOOPSEXAMPLE.pdb
+C:\Users\jayam\source\repos\CAOOPSEXAMPLE\CAOOPSEXAMPLE\obj\Debug\net8.0\CAOOPSEXAMPLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayam\source\repos\CAOOPSEXAMPLE\CAOOPSEXAMPLE\obj\Debug\net8.0\CAOOPSEXAMPLE.AssemblyInfoInputs.cache
+C:\Users\jayam\source\repos\CAOOPSEXAMPLE\CAOOPSEXAMPLE\obj\Debug\net8.0\CAOOPSEXAMPLE.AssemblyInfo.cs
+C:\Users\jayam\source\repos\CAOOPSEXAMPLE\CAOOPSEXAMPLE\obj\Debug\net8.0\CAOOPSEXAMPLE.csproj.CoreCompileInputs.cache
+C:\Users\jayam\source\repos\CAOOPSEXAMPLE\CAOOPSEXAMPLE\obj\Debug\net8.0\CAOOPSEXAMPLE.dll
+C:\Users\jayam\source\repos\CAOOPSEXAMPLE\CAOOPSEXAMPLE\obj\Debug\net8.0\refint\CAOOPSEXAMPLE.dll
+C:\Users\jayam\source\repos\CAOOPSEXAMPLE\CAOOPSEXAMPLE\obj\Debug\net8.0\CAOOPSEXAMPLE.pdb
+C:\Users\jayam\source\repos\CAOOPSEXAMPLE\CAOOPSEXAMPLE\obj\Debug\net8.0\CAOOPSEXAMPLE.genruntimeconfig.cache
+C:\Users\jayam\source\repos\CAOOPSEXAMPLE\CAOOPSEXAMPLE\obj\Debug\net8.0\ref\CAOOPSEXAMPLE.dll

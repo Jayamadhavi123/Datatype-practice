@@ -1,0 +1,14 @@
+C:\Users\jayam\source\repos\ConditionalAppExamples\CAConditionalExamples\obj\Debug\net8.0\CAConditionalExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayam\source\repos\ConditionalAppExamples\CAConditionalExamples\obj\Debug\net8.0\CAConditionalExamples.AssemblyInfoInputs.cache
+C:\Users\jayam\source\repos\ConditionalAppExamples\CAConditionalExamples\obj\Debug\net8.0\CAConditionalExamples.AssemblyInfo.cs
+C:\Users\jayam\source\repos\ConditionalAppExamples\CAConditionalExamples\obj\Debug\net8.0\CAConditionalExamples.csproj.CoreCompileInputs.cache
+C:\Users\jayam\source\repos\ConditionalAppExamples\CAConditionalExamples\bin\Debug\net8.0\CAConditionalExamples.exe
+C:\Users\jayam\source\repos\ConditionalAppExamples\CAConditionalExamples\bin\Debug\net8.0\CAConditionalExamples.deps.json
+C:\Users\jayam\source\repos\ConditionalAppExamples\CAConditionalExamples\bin\Debug\net8.0\CAConditionalExamples.runtimeconfig.json
+C:\Users\jayam\source\repos\ConditionalAppExamples\CAConditionalExamples\bin\Debug\net8.0\CAConditionalExamples.dll
+C:\Users\jayam\source\repos\ConditionalAppExamples\CAConditionalExamples\bin\Debug\net8.0\CAConditionalExamples.pdb
+C:\Users\jayam\source\repos\ConditionalAppExamples\CAConditionalExamples\obj\Debug\net8.0\CAConditionalExamples.dll
+C:\Users\jayam\source\repos\ConditionalAppExamples\CAConditionalExamples\obj\Debug\net8.0\refint\CAConditionalExamples.dll
+C:\Users\jayam\source\repos\ConditionalAppExamples\CAConditionalExamples\obj\Debug\net8.0\CAConditionalExamples.pdb
+C:\Users\jayam\source\repos\ConditionalAppExamples\CAConditionalExamples\obj\Debug\net8.0\CAConditionalExamples.genruntimeconfig.cache
+C:\Users\jayam\source\repos\ConditionalAppExamples\CAConditionalExamples\obj\Debug\net8.0\ref\CAConditionalExamples.dll

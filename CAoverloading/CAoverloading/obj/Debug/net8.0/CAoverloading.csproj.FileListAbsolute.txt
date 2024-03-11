@@ -1,0 +1,14 @@
+C:\Users\jayam\source\repos\CAoverloading\CAoverloading\bin\Debug\net8.0\CAoverloading.exe
+C:\Users\jayam\source\repos\CAoverloading\CAoverloading\bin\Debug\net8.0\CAoverloading.deps.json
+C:\Users\jayam\source\repos\CAoverloading\CAoverloading\bin\Debug\net8.0\CAoverloading.runtimeconfig.json
+C:\Users\jayam\source\repos\CAoverloading\CAoverloading\bin\Debug\net8.0\CAoverloading.dll
+C:\Users\jayam\source\repos\CAoverloading\CAoverloading\bin\Debug\net8.0\CAoverloading.pdb
+C:\Users\jayam\source\repos\CAoverloading\CAoverloading\obj\Debug\net8.0\CAoverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayam\source\repos\CAoverloading\CAoverloading\obj\Debug\net8.0\CAoverloading.AssemblyInfoInputs.cache
+C:\Users\jayam\source\repos\CAoverloading\CAoverloading\obj\Debug\net8.0\CAoverloading.AssemblyInfo.cs
+C:\Users\jayam\source\repos\CAoverloading\CAoverloading\obj\Debug\net8.0\CAoverloading.csproj.CoreCompileInputs.cache
+C:\Users\jayam\source\repos\CAoverloading\CAoverloading\obj\Debug\net8.0\CAoverloading.dll
+C:\Users\jayam\source\repos\CAoverloading\CAoverloading\obj\Debug\net8.0\refint\CAoverloading.dll
+C:\Users\jayam\source\repos\CAoverloading\CAoverloading\obj\Debug\net8.0\CAoverloading.pdb
+C:\Users\jayam\source\repos\CAoverloading\CAoverloading\obj\Debug\net8.0\CAoverloading.genruntimeconfig.cache
+C:\Users\jayam\source\repos\CAoverloading\CAoverloading\obj\Debug\net8.0\ref\CAoverloading.dll

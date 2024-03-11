@@ -1,0 +1,14 @@
+C:\Users\jayam\source\repos\CAConstructors\CAConstructors\bin\Debug\net8.0\CAConstructors.exe
+C:\Users\jayam\source\repos\CAConstructors\CAConstructors\bin\Debug\net8.0\CAConstructors.deps.json
+C:\Users\jayam\source\repos\CAConstructors\CAConstructors\bin\Debug\net8.0\CAConstructors.runtimeconfig.json
+C:\Users\jayam\source\repos\CAConstructors\CAConstructors\bin\Debug\net8.0\CAConstructors.dll
+C:\Users\jayam\source\repos\CAConstructors\CAConstructors\bin\Debug\net8.0\CAConstructors.pdb
+C:\Users\jayam\source\repos\CAConstructors\CAConstructors\obj\Debug\net8.0\CAConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayam\source\repos\CAConstructors\CAConstructors\obj\Debug\net8.0\CAConstructors.AssemblyInfoInputs.cache
+C:\Users\jayam\source\repos\CAConstructors\CAConstructors\obj\Debug\net8.0\CAConstructors.AssemblyInfo.cs
+C:\Users\jayam\source\repos\CAConstructors\CAConstructors\obj\Debug\net8.0\CAConstructors.csproj.CoreCompileInputs.cache
+C:\Users\jayam\source\repos\CAConstructors\CAConstructors\obj\Debug\net8.0\CAConstructors.dll
+C:\Users\jayam\source\repos\CAConstructors\CAConstructors\obj\Debug\net8.0\refint\CAConstructors.dll
+C:\Users\jayam\source\repos\CAConstructors\CAConstructors\obj\Debug\net8.0\CAConstructors.pdb
+C:\Users\jayam\source\repos\CAConstructors\CAConstructors\obj\Debug\net8.0\CAConstructors.genruntimeconfig.cache
+C:\Users\jayam\source\repos\CAConstructors\CAConstructors\obj\Debug\net8.0\ref\CAConstructors.dll
